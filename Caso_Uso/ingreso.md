@@ -9,7 +9,7 @@ El punto de acceso para la aplicacion sera un formulario de login que solicitara
 
 + La clave que se ingresa es valida para ese usuario.
 
-+ Se debe generar una sesion para ese usuario. ( La sesion se debe cerrar despues de 30 min de inactividad).
++ Se debe generar una sesion para ese usuario. ( La sesion se debe cerrar despues de 30 min de inactividad ).
 
 Una vez que el usuario este autenticado se debe abrir una pagina que contenga un dashboard en la se visualizara:
 + Menu Lateral
