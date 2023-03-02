@@ -3,8 +3,7 @@
 En un Modulo de equipo debera existir las siguientes opciones:
 1. Creacion
 1. Actualizacion
-1. Busqueda
-1. Borrado.
+1. Consulta
 
 ## 1. Creacion
 Cuando se valla a crear un equipo se debe contar con los campos de:
