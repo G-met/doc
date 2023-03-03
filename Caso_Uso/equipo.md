@@ -18,4 +18,6 @@ Cuando se valla a crear un equipo se debe contar con los campos de:
     *Ejemplo*
 
     <p style="color:green" >Medidor de temperatura de tanque de agua cruda.</p>
+  + **Marca**
+     Este campo debe Describir la marca del equipo.   
      
