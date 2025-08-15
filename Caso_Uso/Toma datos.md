@@ -3,4 +3,4 @@ El objetivo del toma datos es capturar la informacion al momento de la calibraci
 
 Prerequisitos
   1. El equipo debe existir.
-  2. Debe tener alguna progracion.
+  1. Debe tener alguna progracion.
