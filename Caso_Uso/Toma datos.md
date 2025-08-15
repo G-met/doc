@@ -36,4 +36,23 @@ Lo que es comun para cada caso es:
 Vamos a describir como seria para cada caso.
 
 ### Toma Datos PH
-Para el caso del ph
+Para el caso del ph, cuando ingrese el codigo del equipo este me debera traer los datos basicos que se encuentran registrados tales como:
+1. Descripcion del Equipo
+1. Marca
+1. Modelo
+1. Serie
+1. Ubicacion
+1. Unidad de Medida
+1. Resolucion
+1. EMP ( error maximo permitido ).
+
+Una vez que he validado que el equipo es el se requiere para la calibracion y que los datos son los correctos, se debe seleccionar una fecha de la lista de programacion que existe para ese equipo.
+
+Despues se debe ingresar las caracteristicas del patron. Para el caso de ph se utilizaran 3 MRC (material de referencia certificado) en los valores 4, 7, y 10 ph.
+
+Para cada patron se debe seleccionar el codigo del patron a utilizar y este me debe traer los datos del lote y la fecha de vencimiento del patron.
+
+Si la fecha de vencimiento del patron esta vencida, me debe sacar una alerta que el patron esta vencido y que no es posible continuar con el proceso. Por el contrario si la fecha de vencimiento esta correcta se debe continuar con el proceso.
+
+
+![WhatsApp Image 2025-08-15 at 10 01 29 AM](https://github.com/user-attachments/assets/7ab237a6-3c20-44d4-ab22-d1dedc805dd1)![WhatsApp Image 2025-08-15 at 10 00 52 AM](https://github.com/user-attachments/assets/0b4fee38-0e04-4aab-80a4-ad7b59286b18)
